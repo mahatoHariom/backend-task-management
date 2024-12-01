@@ -75,7 +75,7 @@ export class PrismaTaskRepository implements ITaskRepository {
         take: safeTake,
         orderBy: { createdAt: "desc" },
         include: {
-          user: true, // Include the related User (or IRep) model
+          user: true,
         },
       }),
       this.prisma.task.count({ where }),
@@ -107,12 +107,15 @@ export class PrismaTaskRepository implements ITaskRepository {
     });
   }
 
-  async findOverdue(): Promise<Task[]> {
-    const now = new Date();
+  async findOverdue() {
     return this.prisma.task.findMany({
       where: {
-        dueDate: { lt: now },
-        status: "PENDING",
+        dueDate: {
+          lt: new Date(),
+        },
+        status: {
+          not: "DONE",
+        },
       },
     });
   }

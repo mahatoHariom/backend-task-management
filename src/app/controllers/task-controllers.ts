@@ -10,7 +10,11 @@ import {
 } from "@/domain/schema/tasks-schema";
 import { TaskService } from "../services/task-service";
 import { NotificationService } from "../services/notification-service";
-import { CRUDAction, NotificationType } from "@/types/notification";
+import {
+  CRUDAction,
+  NotificationType,
+  Notification,
+} from "@/types/notification";
 
 @injectable()
 export class TaskController {
@@ -31,7 +35,7 @@ export class TaskController {
     const tasks = await this.taskService.getTasks(
       userId as string,
       filter,
-      (pageNumber - 1) * limitNumber,
+      pageNumber,
       limitNumber
     );
 
@@ -43,7 +47,7 @@ export class TaskController {
     const task = await this.taskService.createTask(req.body);
 
     // Send CRUD notification
-    const notification = {
+    const notification: Notification = {
       id: crypto.randomUUID(), // Generate a unique ID
       type: NotificationType.CRUD,
       action: CRUDAction.CREATE,
@@ -53,6 +57,7 @@ export class TaskController {
       message: `Task "${task.title}" has been created`,
       timestamp: new Date(),
       isRead: false, // Default value
+      dueDate: task.dueDate,
     };
 
     await this.notificationService.sendNotification(notification);
@@ -89,6 +94,7 @@ export class TaskController {
       message: `Task "${task.title}" has been updated`,
       timestamp: new Date(),
       isRead: false, // Default value
+      dueDate: task.dueDate,
     };
 
     await this.notificationService.sendNotification(notification);
@@ -121,6 +127,7 @@ export class TaskController {
       message: `Task "${task.title}" has been deleted`,
       timestamp: new Date(),
       isRead: false, // Default value
+      dueDate: task.dueDate,
     };
 
     await this.notificationService.sendNotification(notification);

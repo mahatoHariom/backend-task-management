@@ -20,4 +20,5 @@ export interface Notification {
   message: string;
   timestamp: Date;
   isRead: boolean;
+  dueDate?: string | Date;
 }

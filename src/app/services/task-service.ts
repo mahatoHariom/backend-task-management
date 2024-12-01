@@ -31,7 +31,7 @@ export class TaskService {
     currentPage: number;
     totalPages: number;
   }> {
-    const skip = (page - 1) * limit;
+    const skip = (Number(page) - 1) * limit;
     const { tasks, total } = await this.taskRepository.findAll(
       userId,
       filter,

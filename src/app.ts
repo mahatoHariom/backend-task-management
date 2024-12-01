@@ -7,6 +7,7 @@ import dotenv from "dotenv"; // For environment variable management
 
 import { errorHandler } from "./app/middlewares/error-handler";
 import v1Router from "./routes"; // Import your versioned routes
+import { initializeBackgroundServices } from "./background-service";
 
 // Load environment variables from `.env` file
 dotenv.config();
@@ -20,6 +21,7 @@ export const createApp = async (): Promise<Express> => {
 
   // Middleware for parsing cookies
   app.use(cookieParser());
+  initializeBackgroundServices();
 
   // Enable Cross-Origin Resource Sharing (CORS)
   app.use(

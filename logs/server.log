@@ -29,3 +29,522 @@
 2024-11-30T17:26:01.182Z error: Validation failed
 2024-11-30T17:26:03.199Z error: Validation failed
 2024-11-30T17:26:07.225Z error: Validation failed
+2024-12-01T01:43:47.930Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:43:47.980Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:43:47.982Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:43:47.999Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:43:48.010Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:43:55.103Z info: Notification saved to database: {"id":"afa6d922-0dbc-493e-85f1-673ac1c7f9db","type":"CRUD","action":"DELETE","taskId":"cm44goe6i0003jlesavpq9mek","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Deleted","message":"Task \"edite\" has been deleted","timestamp":"2024-12-01T01:43:55.103Z","isRead":false}
+2024-12-01T01:43:55.103Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Deleted
+2024-12-01T01:44:15.053Z info: Notification saved to database: {"id":"dbce849c-6964-4b25-8723-20b51c28b8fa","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T01:44:15.053Z","isRead":false}
+2024-12-01T01:44:15.053Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T01:45:15.783Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:45:15.784Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:45:15.785Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:03.188Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:03.204Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:03.221Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:03.222Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:03.254Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:12.834Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:12.872Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:12.873Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:13.444Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:13.456Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:13.518Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:13.519Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:48:13.534Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:49:08.784Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:49:08.794Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:49:08.804Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:49:57.188Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:49:57.199Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:49:57.208Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:49:57.220Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:49:57.232Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:50:04.869Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:50:04.909Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:50:04.910Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:50:05.415Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:50:05.432Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:50:05.520Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:50:05.520Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:50:05.532Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:40.306Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:40.307Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:40.330Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:45.218Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:45.225Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:45.226Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:45.226Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:45.566Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:45.578Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:45.608Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:45.610Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:45.620Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:51:58.844Z info: Notification saved to database: {"id":"131ca2af-c7c3-4ed5-986d-da011f7c06f7","type":"CRUD","action":"CREATE","taskId":"cm44y4gab0001jl78eqmj8ciy","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Created","message":"Task \"dfsg\" has been created","timestamp":"2024-12-01T01:51:58.844Z","isRead":false}
+2024-12-01T01:51:58.844Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Created
+2024-12-01T01:52:11.540Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:52:11.543Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:52:11.556Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:52:20.000Z info: Notification saved to database: {"id":"172c986d-fe6d-4978-8c8c-5ab4eda35929","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T01:52:20.000Z","isRead":false}
+2024-12-01T01:52:20.000Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T01:57:31.344Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:31.351Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.221Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.232Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.265Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.268Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.277Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.595Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.596Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.598Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.600Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.600Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.602Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:34.603Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:35.169Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:35.179Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:35.212Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:35.212Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:57:35.224Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:20.632Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:20.644Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.058Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.073Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.113Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.113Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.113Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.126Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.137Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.150Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.163Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.175Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.413Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.414Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.414Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.414Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.415Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.415Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.415Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.415Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.419Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.818Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.829Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.843Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.874Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.874Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.874Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.886Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.897Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.910Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:47.922Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:58.090Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:58:58.106Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:11.732Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:11.733Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:11.737Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:11.743Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:11.743Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:11.743Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:12.111Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:12.123Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:12.155Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:12.155Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:12.167Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T01:59:16.985Z info: Notification saved to database: {"id":"44418741-9db1-4ece-8d96-a67309cc5718","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T01:59:16.985Z","isRead":false}
+2024-12-01T01:59:16.985Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T02:01:16.326Z info: Notification saved to database: {"id":"8371b6f5-5b58-4a91-bd36-bf6b0285bb39","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T02:01:16.326Z","isRead":false}
+2024-12-01T02:01:16.326Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T02:01:18.473Z info: Notification saved to database: {"id":"86ebd0c4-054f-46e1-94c3-28c1cf33d81a","type":"CRUD","action":"UPDATE","taskId":"cm44y4gab0001jl78eqmj8ciy","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"dfsg\" has been updated","timestamp":"2024-12-01T02:01:18.473Z","isRead":false}
+2024-12-01T02:01:18.474Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T02:03:55.933Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:56.175Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:56.265Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:56.389Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:56.489Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:56.520Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:56.642Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:56.926Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:56.961Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:57.109Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:57.189Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:57.257Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:57.381Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:57.604Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:57.676Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:57.732Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:57.933Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:58.046Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:58.059Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:58.385Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:58.548Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:58.693Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:58.739Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:59.053Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:59.342Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:03:59.998Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:04:00.068Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:04:00.088Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:04:00.438Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:04:27.638Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:04:28.076Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:04:52.054Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:04:53.956Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:04:54.758Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:05:01.574Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:05:19.662Z info: Notification saved to database: {"id":"70fca605-56ca-460c-b748-812d5bb40ce3","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T02:05:19.662Z","isRead":false,"dueDate":"2024-11-13T05:30:00.000Z"}
+2024-12-01T02:05:19.663Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T02:05:21.241Z info: Notification saved to database: {"id":"b79982b6-fe06-414d-9bf4-675c507fd727","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T02:05:21.241Z","isRead":false,"dueDate":"2024-11-13T05:30:00.000Z"}
+2024-12-01T02:05:21.242Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T02:05:21.269Z info: Notification saved to database: {"id":"24182786-38c3-4e6a-b90c-536e93bf5f65","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T02:05:21.269Z","isRead":false,"dueDate":"2024-11-13T05:30:00.000Z"}
+2024-12-01T02:05:21.271Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T02:05:22.114Z info: Notification saved to database: {"id":"7051d308-12c3-4b7b-9d68-58ee9ab9b2c2","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T02:05:22.114Z","isRead":false,"dueDate":"2024-11-13T05:30:00.000Z"}
+2024-12-01T02:05:22.116Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T02:05:22.809Z info: Notification saved to database: {"id":"3b1ee324-2375-4a77-b774-1521046554ab","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T02:05:22.809Z","isRead":false,"dueDate":"2024-11-13T05:30:00.000Z"}
+2024-12-01T02:05:22.810Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T02:05:22.986Z info: Notification saved to database: {"id":"b2b6d192-2ab9-4146-868a-3d02182a2479","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T02:05:22.986Z","isRead":false,"dueDate":"2024-11-13T05:30:00.000Z"}
+2024-12-01T02:05:22.986Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T02:05:23.144Z info: Notification saved to database: {"id":"4b000b3a-b9ed-49c1-8f3b-90a481a7db43","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T02:05:23.143Z","isRead":false,"dueDate":"2024-11-13T05:30:00.000Z"}
+2024-12-01T02:05:23.144Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T02:05:32.103Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:05:32.106Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:05:32.106Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:05:32.106Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:05:36.252Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:05:36.267Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:05:36.295Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:05:36.296Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:05:36.312Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:05:39.569Z info: Notification saved to database: {"id":"2b4043f0-b148-45e7-a835-d8736b0398ef","type":"CRUD","action":"UPDATE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Updated","message":"Task \"fgdfg\" has been updated","timestamp":"2024-12-01T02:05:39.569Z","isRead":false,"dueDate":"2024-11-13T05:30:00.000Z"}
+2024-12-01T02:05:39.569Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Updated
+2024-12-01T02:08:17.890Z info: Notification saved to database: {"id":"572f027c-939c-4e06-842c-d7503dfc0e75","type":"CRUD","action":"CREATE","taskId":"cm44ypfpo0001jlqr41sd64ls","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Created","message":"Task \"sdfsdf\" has been created","timestamp":"2024-12-01T02:08:17.890Z","isRead":false,"dueDate":"2024-12-01T02:08:13.447Z"}
+2024-12-01T02:08:17.890Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Created
+2024-12-01T02:09:07.549Z info: Notification saved to database: {"id":"29ee6b64-b044-423f-8d68-f4ee5e929e9a","type":"CRUD","action":"CREATE","taskId":"cm44yqi1n0003jlqr5l5tffl1","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Created","message":"Task \"sdfsdf\" has been created","timestamp":"2024-12-01T02:09:07.549Z","isRead":false,"dueDate":"2025-01-04T02:09:00.000Z"}
+2024-12-01T02:09:07.549Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Created
+2024-12-01T02:10:20.970Z info: Notification saved to database: {"id":"982c583e-1f1b-4a96-9ff1-adcac0f64139","type":"CRUD","action":"CREATE","taskId":"cm44ys2p20005jlqr09sn58it","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Created","message":"Task \"sdfsdf\" has been created","timestamp":"2024-12-01T02:10:20.969Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:10:20.970Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Created
+2024-12-01T02:10:24.168Z info: Notification saved to database: {"id":"70c2bab6-f4b3-436d-84e1-c531d81ed038","type":"CRUD","action":"CREATE","taskId":"cm44ys55z0007jlqr31h6gv79","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Created","message":"Task \"sdfsdfsdf\" has been created","timestamp":"2024-12-01T02:10:24.168Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:10:24.168Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Created
+2024-12-01T02:10:27.539Z info: Notification saved to database: {"id":"d71cccf3-d226-4eac-ae91-f5e63e80fe42","type":"CRUD","action":"CREATE","taskId":"cm44ys7rl0009jlqrwaaa46d3","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Created","message":"Task \"sdfsdfsd\" has been created","timestamp":"2024-12-01T02:10:27.539Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:10:27.539Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Created
+2024-12-01T02:10:31.302Z info: Notification saved to database: {"id":"6c45e93b-0104-4c86-bf5b-75bf2a6756ad","type":"CRUD","action":"CREATE","taskId":"cm44ysao5000bjlqraihkfw0x","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Created","message":"Task \"sdfsdfsdf\" has been created","timestamp":"2024-12-01T02:10:31.302Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:10:31.302Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Created
+2024-12-01T02:10:35.933Z info: Notification saved to database: {"id":"0c336271-62c5-4d10-9417-5e1d84ffc743","type":"CRUD","action":"CREATE","taskId":"cm44yse8s000djlqr4tn2ahu9","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Created","message":"Task \"sdfsdfsdf\" has been created","timestamp":"2024-12-01T02:10:35.933Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:10:35.933Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Created
+2024-12-01T02:10:39.330Z info: Notification saved to database: {"id":"1559fa00-a6a8-4cc3-91b2-7ae5f9cf66fd","type":"CRUD","action":"CREATE","taskId":"cm44ysgv5000fjlqrox6uhp0x","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Created","message":"Task \"sdfsdfsd\" has been created","timestamp":"2024-12-01T02:10:39.330Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:10:39.330Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Created
+2024-12-01T02:10:44.287Z info: Notification saved to database: {"id":"f4de99bf-7f5f-4dd3-afde-3b7317ab4126","type":"CRUD","action":"CREATE","taskId":"cm44yskos000hjlqre1ti7ogv","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Created","message":"Task \"sdfsdfsd\" has been created","timestamp":"2024-12-01T02:10:44.287Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:10:44.288Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Created
+2024-12-01T02:10:48.015Z info: Notification saved to database: {"id":"fb37203a-daad-4688-9f27-e5ad3fbad0e3","type":"CRUD","action":"CREATE","taskId":"cm44ysnkd000jjlqr9t22xxoq","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Created","message":"Task \"sdfsdfsdf\" has been created","timestamp":"2024-12-01T02:10:48.015Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:10:48.015Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Created
+2024-12-01T02:12:08.375Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:08.377Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:08.378Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:08.742Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:08.756Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:08.776Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:08.780Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:08.794Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:14.227Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:14.230Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:14.231Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:14.809Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:14.820Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:14.860Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:14.860Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:12:14.875Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:43.600Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:43.715Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:43.726Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:43.814Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:44.768Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:44.937Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:44.951Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:44.992Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:45.127Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:45.251Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:45.949Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:45.976Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:46.775Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:46.797Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:47.192Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:16:47.384Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.908Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.910Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.910Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.910Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.910Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.911Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.911Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.911Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.914Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.927Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.928Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.928Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.928Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.928Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.928Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:29.929Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:30.601Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:30.612Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:30.675Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:30.676Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:17:30.695Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:01.737Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:01.745Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:01.760Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:01.796Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:02.050Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:02.123Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:02.145Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:02.331Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:02.391Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:02.639Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:02.870Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:03.017Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:03.125Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:03.181Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:03.206Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:03.426Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:03.490Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:03.639Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:03.845Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:03.936Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:04.052Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:04.077Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:04.088Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:04.147Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:04.160Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:04.462Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:04.997Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:05.428Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:19:06.617Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:20:07.296Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:20:07.306Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:20:07.356Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:20:07.358Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:20:07.371Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:20:16.550Z info: Notification saved to database: {"id":"376cf9e1-4428-4a8e-8d82-4c48a007078e","type":"CRUD","action":"DELETE","taskId":"cm44ysnkd000jjlqr9t22xxoq","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Deleted","message":"Task \"sdfsdfsdf\" has been deleted","timestamp":"2024-12-01T02:20:16.550Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:20:16.550Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Deleted
+2024-12-01T02:21:32.794Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:33.058Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:33.083Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:33.433Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:33.624Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:33.953Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:34.045Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:34.660Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:34.691Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:34.876Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:34.934Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:35.026Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:35.094Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:35.228Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:35.267Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:35.412Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:35.647Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:35.858Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:36.385Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:36.427Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:36.439Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:36.452Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:36.502Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:36.701Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:36.750Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:36.764Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:36.775Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:37.221Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:37.260Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:37.695Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:37.919Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:38.311Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:21:38.694Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:32.413Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:32.557Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:32.749Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:32.833Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:33.127Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:33.478Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:33.604Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:33.812Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:33.932Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.009Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.023Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.040Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.098Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.119Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.167Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.233Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.254Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.542Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.803Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.841Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:34.875Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:35.211Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:35.536Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:36.525Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:36.538Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:37.144Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:37.452Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:37.485Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:22:38.008Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:23:03.271Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:23:03.334Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:23:03.338Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:23:03.385Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:23:03.402Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:06.519Z error: Unhandled Rejection: ReferenceError: initializeBackgroundServices is not defined
+2024-12-01T02:25:06.581Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:06.953Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:07.459Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:07.634Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:07.988Z info: Background services initialized successfully
+2024-12-01T02:25:08.132Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:08.180Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:08.405Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:08.836Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:08.924Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:09.420Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:09.434Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:09.662Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:09.690Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:09.780Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:09.819Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:09.831Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:09.871Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:09.946Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:09.982Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:10.022Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:10.400Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:10.490Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:10.650Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:10.818Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:10.875Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:11.079Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:11.226Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:12.412Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:12.504Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:12.712Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.185Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.192Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.193Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.194Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.194Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.194Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.195Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.195Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.195Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.196Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.196Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.197Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.197Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.197Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.197Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.197Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.197Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.198Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.198Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.198Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.198Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.198Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.198Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.198Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.198Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.198Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.489Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.501Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.523Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.524Z info: WebSocket connection closed for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:14.534Z info: WebSocket connection established for user: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:25:25.916Z info: Notification saved to database: {"id":"541085b1-682f-49d1-bc37-597bacfe6957","type":"CRUD","action":"DELETE","taskId":"cm44ysgv5000fjlqrox6uhp0x","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Task Deleted","message":"Task \"sdfsdfsd\" has been deleted","timestamp":"2024-12-01T02:25:25.916Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:25:25.916Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Task Deleted
+2024-12-01T02:26:00.067Z info: Starting overdue task cron job
+2024-12-01T02:26:00.068Z info: Current time: 2024-12-01T02:26:00.068Z
+2024-12-01T02:26:00.079Z info: Found 11 overdue tasks
+2024-12-01T02:26:00.080Z info: Overdue Task Details:
+            - Task ID: cm43uv7wa0001jlsx08o6tcwg
+            - Title: hello
+            - Due Date: Sat Nov 30 2024 12:31:57 GMT+0545 (Nepal Time)
+            - User ID: cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T02:26:00.080Z info: Overdue Task Details:
+            - Task ID: cm43x8a4f0003jlsxxny5wpyg
+            - Title: task2
+            - Due Date: Sat Nov 23 2024 17:24:00 GMT+0545 (Nepal Time)
+            - User ID: cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T02:26:00.080Z info: Overdue Task Details:
+            - Task ID: cm43x8nj30005jlsxckkhcl4u
+            - Title: third
+            - Due Date: Sat Nov 30 2024 18:28:00 GMT+0545 (Nepal Time)
+            - User ID: cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T02:26:00.080Z info: Overdue Task Details:
+            - Task ID: cm44xcj5d0001jlp4hvq2kh9f
+            - Title: fgdfg
+            - Due Date: Wed Nov 13 2024 11:15:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.080Z info: Overdue Task Details:
+            - Task ID: cm44ypfpo0001jlqr41sd64ls
+            - Title: sdfsdf
+            - Due Date: Sun Dec 01 2024 07:53:13 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.080Z info: Overdue Task Details:
+            - Task ID: cm44ys2p20005jlqr09sn58it
+            - Title: sdfsdf
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.080Z info: Overdue Task Details:
+            - Task ID: cm44ys55z0007jlqr31h6gv79
+            - Title: sdfsdfsdf
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.080Z info: Overdue Task Details:
+            - Task ID: cm44ys7rl0009jlqrwaaa46d3
+            - Title: sdfsdfsd
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.080Z info: Overdue Task Details:
+            - Task ID: cm44ysao5000bjlqraihkfw0x
+            - Title: sdfsdfsdf
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.080Z info: Overdue Task Details:
+            - Task ID: cm44yse8s000djlqr4tn2ahu9
+            - Title: sdfsdfsdf
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.080Z info: Overdue Task Details:
+            - Task ID: cm44yskos000hjlqre1ti7ogv
+            - Title: sdfsdfsd
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.080Z warn: No active WebSocket connections for user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T02:26:00.080Z info: Sent notification for overdue task "hello" to user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T02:26:00.080Z warn: No active WebSocket connections for user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T02:26:00.080Z info: Sent notification for overdue task "task2" to user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T02:26:00.080Z warn: No active WebSocket connections for user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T02:26:00.080Z info: Sent notification for overdue task "third" to user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T02:26:00.081Z info: Notification saved to database: {"id":"8d7770b2-8e11-4da4-a4d0-103ff76dcf26","type":"OVERDUE","taskId":"cm44xcj5d0001jlp4hvq2kh9f","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Overdue Task","message":"Task \"fgdfg\" is overdue.","timestamp":"2024-12-01T02:26:00.081Z","isRead":false,"dueDate":"2024-11-13T05:30:00.000Z"}
+2024-12-01T02:26:00.081Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Overdue Task
+2024-12-01T02:26:00.081Z info: Sent notification for overdue task "fgdfg" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.081Z info: Notification saved to database: {"id":"36f7d5d7-ff1f-4b49-9f73-3af0e9204d8b","type":"OVERDUE","taskId":"cm44ypfpo0001jlqr41sd64ls","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Overdue Task","message":"Task \"sdfsdf\" is overdue.","timestamp":"2024-12-01T02:26:00.081Z","isRead":false,"dueDate":"2024-12-01T02:08:13.447Z"}
+2024-12-01T02:26:00.081Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Overdue Task
+2024-12-01T02:26:00.082Z info: Sent notification for overdue task "sdfsdf" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.082Z info: Notification saved to database: {"id":"76030cd8-e8d0-47be-91cb-ab4ed6cec219","type":"OVERDUE","taskId":"cm44ys2p20005jlqr09sn58it","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Overdue Task","message":"Task \"sdfsdf\" is overdue.","timestamp":"2024-12-01T02:26:00.082Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:26:00.082Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Overdue Task
+2024-12-01T02:26:00.082Z info: Sent notification for overdue task "sdfsdf" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.082Z info: Notification saved to database: {"id":"135fb4c9-f8bf-42b7-a5ca-e90600509fc3","type":"OVERDUE","taskId":"cm44ys55z0007jlqr31h6gv79","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Overdue Task","message":"Task \"sdfsdfsdf\" is overdue.","timestamp":"2024-12-01T02:26:00.082Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:26:00.082Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Overdue Task
+2024-12-01T02:26:00.082Z info: Sent notification for overdue task "sdfsdfsdf" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.082Z info: Notification saved to database: {"id":"60f25542-4ce9-4ba8-8ac7-b6909c4dea8a","type":"OVERDUE","taskId":"cm44ys7rl0009jlqrwaaa46d3","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Overdue Task","message":"Task \"sdfsdfsd\" is overdue.","timestamp":"2024-12-01T02:26:00.082Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:26:00.082Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Overdue Task
+2024-12-01T02:26:00.082Z info: Sent notification for overdue task "sdfsdfsd" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.082Z info: Notification saved to database: {"id":"6435d4df-7101-44a9-8fde-5231c05fb116","type":"OVERDUE","taskId":"cm44ysao5000bjlqraihkfw0x","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Overdue Task","message":"Task \"sdfsdfsdf\" is overdue.","timestamp":"2024-12-01T02:26:00.082Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:26:00.083Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Overdue Task
+2024-12-01T02:26:00.083Z info: Sent notification for overdue task "sdfsdfsdf" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.083Z info: Notification saved to database: {"id":"e33d9820-0ac7-4f99-993c-c27447d0c187","type":"OVERDUE","taskId":"cm44yse8s000djlqr4tn2ahu9","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Overdue Task","message":"Task \"sdfsdfsdf\" is overdue.","timestamp":"2024-12-01T02:26:00.083Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:26:00.083Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Overdue Task
+2024-12-01T02:26:00.083Z info: Sent notification for overdue task "sdfsdfsdf" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.083Z info: Notification saved to database: {"id":"21ccee65-a7ba-4654-939f-820870d29277","type":"OVERDUE","taskId":"cm44yskos000hjlqre1ti7ogv","userId":"cm44c2mhw0000jlrz6ma5yob9","title":"Overdue Task","message":"Task \"sdfsdfsd\" is overdue.","timestamp":"2024-12-01T02:26:00.083Z","isRead":false,"dueDate":"2024-11-30T20:25:00.000Z"}
+2024-12-01T02:26:00.083Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Overdue Task
+2024-12-01T02:26:00.083Z info: Sent notification for overdue task "sdfsdfsd" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T02:26:00.084Z info: Overdue task cron job completed successfully

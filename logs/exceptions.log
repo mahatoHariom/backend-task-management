@@ -1,0 +1,158 @@
+2024-12-01T01:40:52.383Z error: uncaughtException: Cannot find module '@/utils/logger'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/app/services/over-due-task-service.ts
+- /Users/mahato/Developer/new-task-management/backend/src/container.ts
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+Error: Cannot find module '@/utils/logger'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/app/services/over-due-task-service.ts
+- /Users/mahato/Developer/new-task-management/backend/src/container.ts
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1219:15)
+    at nextResolveSimple (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:942)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:2550
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:1624
+    at resolveTsPaths (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:760)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:1038
+    at m._resolveFilename (file:///Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-RyGUjI6j.mjs:1:789)
+    at Module._load (node:internal/modules/cjs/loader:1045:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+2024-12-01T01:41:00.652Z error: uncaughtException: Cannot find module '@/'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/app/services/over-due-task-service.ts
+- /Users/mahato/Developer/new-task-management/backend/src/container.ts
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+Error: Cannot find module '@/'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/app/services/over-due-task-service.ts
+- /Users/mahato/Developer/new-task-management/backend/src/container.ts
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1219:15)
+    at nextResolveSimple (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:942)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:2550
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:1624
+    at resolveTsPaths (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:760)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:1038
+    at m._resolveFilename (file:///Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-RyGUjI6j.mjs:1:789)
+    at Module._load (node:internal/modules/cjs/loader:1045:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+2024-12-01T01:41:02.833Z error: uncaughtException: Cannot find module '@/domain/'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/app/services/over-due-task-service.ts
+- /Users/mahato/Developer/new-task-management/backend/src/container.ts
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+Error: Cannot find module '@/domain/'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/app/services/over-due-task-service.ts
+- /Users/mahato/Developer/new-task-management/backend/src/container.ts
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1219:15)
+    at nextResolveSimple (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:942)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:2550
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:1624
+    at resolveTsPaths (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:760)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:1038
+    at m._resolveFilename (file:///Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-RyGUjI6j.mjs:1:789)
+    at Module._load (node:internal/modules/cjs/loader:1045:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+2024-12-01T01:41:04.467Z error: uncaughtException: Cannot find module '@/domain/utils/'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/app/services/over-due-task-service.ts
+- /Users/mahato/Developer/new-task-management/backend/src/container.ts
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+Error: Cannot find module '@/domain/utils/'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/app/services/over-due-task-service.ts
+- /Users/mahato/Developer/new-task-management/backend/src/container.ts
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1219:15)
+    at nextResolveSimple (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:942)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:2550
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:1624
+    at resolveTsPaths (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:760)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:1038
+    at m._resolveFilename (file:///Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-RyGUjI6j.mjs:1:789)
+    at Module._load (node:internal/modules/cjs/loader:1045:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+2024-12-01T01:41:21.260Z error: uncaughtException: Cannot find module '@/infra'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/app/services/over-due-task-service.ts
+- /Users/mahato/Developer/new-task-management/backend/src/container.ts
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+Error: Cannot find module '@/infra'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/app/services/over-due-task-service.ts
+- /Users/mahato/Developer/new-task-management/backend/src/container.ts
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1219:15)
+    at nextResolveSimple (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:942)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:2550
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:1624
+    at resolveTsPaths (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:760)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:1038
+    at m._resolveFilename (file:///Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-RyGUjI6j.mjs:1:789)
+    at Module._load (node:internal/modules/cjs/loader:1045:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+2024-12-01T02:03:52.827Z error: uncaughtException: Transform failed with 1 error:
+/Users/mahato/Developer/new-task-management/backend/src/app/controllers/task-controllers.ts:61:4: ERROR: Unexpected "}"
+Error: Transform failed with 1 error:
+/Users/mahato/Developer/new-task-management/backend/src/app/controllers/task-controllers.ts:61:4: ERROR: Unexpected "}"
+    at failureErrorWithLog (/Users/mahato/Developer/new-task-management/backend/node_modules/esbuild/lib/main.js:1476:15)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/Users/mahato/Developer/new-task-management/backend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/Users/mahato/Developer/new-task-management/backend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/Users/mahato/Developer/new-task-management/backend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:520:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23)
+2024-12-01T02:18:59.622Z error: uncaughtException: Transform failed with 1 error:
+/Users/mahato/Developer/new-task-management/backend/src/app/services/task-service.ts:34:42: ERROR: Expected ")" but found ";"
+Error: Transform failed with 1 error:
+/Users/mahato/Developer/new-task-management/backend/src/app/services/task-service.ts:34:42: ERROR: Expected ")" but found ";"
+    at failureErrorWithLog (/Users/mahato/Developer/new-task-management/backend/node_modules/esbuild/lib/main.js:1476:15)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/Users/mahato/Developer/new-task-management/backend/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/Users/mahato/Developer/new-task-management/backend/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/Users/mahato/Developer/new-task-management/backend/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:520:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23)
