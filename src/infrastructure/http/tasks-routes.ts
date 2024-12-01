@@ -8,7 +8,7 @@ import {
 import { container } from "@/container";
 import { TYPES } from "@/types/injection";
 import { TaskController } from "@/app/controllers/task-controllers";
-import { validateRequest } from "@/app/middlewares/validate-reques";
+import { validateRequest } from "@/app/middlewares/validate-request";
 import authenticateJWT from "@/app/middlewares/authenticate";
 
 const router = express.Router();
@@ -19,7 +19,7 @@ router.post(
   "/tasks",
   authenticateJWT,
   validateRequest(createTaskSchema),
-  taskController.createTask.bind(taskController),
+  taskController.createTask.bind(taskController)
 );
 
 // Get tasks (with authentication and query validation)
@@ -27,7 +27,7 @@ router.get(
   "/tasks",
   authenticateJWT,
   validateRequest(getTasksQuerySchema, "query"),
-  taskController.getTasks.bind(taskController),
+  taskController.getTasks.bind(taskController)
 );
 
 // Update task (with authentication and validation)
@@ -35,7 +35,7 @@ router.put(
   "/tasks",
   authenticateJWT,
   validateRequest(updateTaskSchema),
-  taskController.updateTask.bind(taskController),
+  taskController.updateTask.bind(taskController)
 );
 
 // Delete task (with authentication and validation)
@@ -43,7 +43,7 @@ router.delete(
   "/tasks",
   authenticateJWT,
   validateRequest(deleteTaskSchema),
-  taskController.deleteTask.bind(taskController),
+  taskController.deleteTask.bind(taskController)
 );
 
 export default router;

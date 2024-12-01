@@ -1,28 +1,39 @@
 version: "3.9"
 services:
-  db:
-    image: postgres:15
-    container_name: postgres-db
-    restart: always
-    ports:
-      - "5432:5432"
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
-    env_file:
-      - .env
-
-  app:
+  backend:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: express-app
-    restart: always
+    container_name: backend
     ports:
       - "9000:9000"
-    env_file:
-      - .env
+    environment:
+      - DATABASE_URL=postgresql://mahato:mahato@db:5432/project-management?schema=sample
+      - PORT=9000
+      - JWT_SECRET=mahatohariomsfadfnasldkjf
+      - ACCESS_TOKEN_EXPIRES=1d
+      - REFRESH_TOKEN_EXPIRES=7d
+      - NODE_ENV=dev
+      - CLIENT_ENDPOINT=http://localhost:3000
+      - WEBSOCKET_PORT=8080
     depends_on:
       - db
+    volumes:
+      - .:/dist
+      - /app/node_modules
+
+  db:
+    image: postgres:15
+    container_name: postgres-db
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=mahato
+      - POSTGRES_PASSWORD=mahato
+      - POSTGRES_DB=project-management
+      - POSTGRES_HOST_AUTH_METHOD=trust
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
 
 volumes:
   postgres_data:

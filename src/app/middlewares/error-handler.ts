@@ -1,7 +1,7 @@
-import ApiError from "@/infrastructure/config/ApiError";
-import { logger } from "@/infrastructure/config/winston";
 import { Request, Response, NextFunction } from "express";
 import { ZodError } from "zod";
+import ApiError from "../../infrastructure/config/ApiError";
+import { logger } from "../../infrastructure/config/winston";
 
 // Type guard to check if error is a ZodError
 function isZodError(error: any): error is ZodError {

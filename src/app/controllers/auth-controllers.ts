@@ -51,21 +51,6 @@ export class AuthController {
     }
   );
 
-  getProfileData = asyncHandler(async (req: Request, res: Response) => {
-    const userId = req.user?.id;
-    if (!userId) {
-      throw new ApiError(Messages.USER_NOT_FOUND, StatusCode.NotFound);
-    }
-
-    const user = await this.authService.getProfileData(userId);
-
-    if (!user) {
-      throw new ApiError(Messages.USER_NOT_FOUND, StatusCode.NotFound);
-    }
-
-    res.status(200).json(user);
-  });
-
   refresh = asyncHandler(
     async (req: Request<{}, {}, { refreshToken: string }>, res: Response) => {
       const { refreshToken } = req.body;

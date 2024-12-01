@@ -156,3 +156,61 @@ Error: Transform failed with 1 error:
     at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
     at Readable.push (node:internal/streams/readable:390:5)
     at Pipe.onStreamRead (node:internal/stream_base_commons:191:23)
+2024-12-01T04:14:26.757Z error: uncaughtException: Cannot find module '@/app/middlewares/validate-reques'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/tasks-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+Error: Cannot find module '@/app/middlewares/validate-reques'
+Require stack:
+- /Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/tasks-routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/routes.ts
+- /Users/mahato/Developer/new-task-management/backend/src/app.ts
+- /Users/mahato/Developer/new-task-management/backend/src/server.ts
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1219:15)
+    at nextResolveSimple (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:942)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:2550
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:1624
+    at resolveTsPaths (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:760)
+    at /Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:3:1038
+    at m._resolveFilename (file:///Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-RyGUjI6j.mjs:1:789)
+    at Module._load (node:internal/modules/cjs/loader:1045:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+2024-12-01T04:25:29.688Z error: uncaughtException: Cannot read properties of undefined (reading 'bind')
+TypeError: Cannot read properties of undefined (reading 'bind')
+    at express (/Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts:13:54)
+    at Object.<anonymous> (/Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts:15:16)
+    at Module._compile (node:internal/modules/cjs/loader:1504:14)
+    at Object.transformer (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:1186)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+2024-12-01T04:25:30.335Z error: uncaughtException: Cannot read properties of undefined (reading 'bind')
+TypeError: Cannot read properties of undefined (reading 'bind')
+    at express (/Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts:13:54)
+    at Object.<anonymous> (/Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts:15:16)
+    at Module._compile (node:internal/modules/cjs/loader:1504:14)
+    at Object.transformer (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:1186)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)
+2024-12-01T04:25:34.067Z error: uncaughtException: Cannot read properties of undefined (reading 'bind')
+TypeError: Cannot read properties of undefined (reading 'bind')
+    at express (/Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts:13:54)
+    at Object.<anonymous> (/Users/mahato/Developer/new-task-management/backend/src/infrastructure/http/auth-routes.ts:15:16)
+    at Module._compile (node:internal/modules/cjs/loader:1504:14)
+    at Object.transformer (/Users/mahato/Developer/new-task-management/backend/node_modules/tsx/dist/register-DCnOAxY2.cjs:2:1186)
+    at Module.load (node:internal/modules/cjs/loader:1282:32)
+    at Module._load (node:internal/modules/cjs/loader:1098:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:215:24)
+    at Module.require (node:internal/modules/cjs/loader:1304:12)
+    at require (node:internal/modules/helpers:123:16)

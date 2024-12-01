@@ -548,3 +548,141 @@
 2024-12-01T02:26:00.083Z info: Notification saved and being sent to user cm44c2mhw0000jlrz6ma5yob9: Overdue Task
 2024-12-01T02:26:00.083Z info: Sent notification for overdue task "sdfsdfsd" to user cm44c2mhw0000jlrz6ma5yob9
 2024-12-01T02:26:00.084Z info: Overdue task cron job completed successfully
+2024-12-01T03:53:48.528Z info: Background services initialized successfully
+2024-12-01T03:56:08.787Z info: Background services initialized successfully
+2024-12-01T03:56:14.962Z info: Background services initialized successfully
+2024-12-01T03:57:02.134Z info: Background services initialized successfully
+2024-12-01T03:57:24.364Z info: WebSocket connection established for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:24.398Z info: WebSocket connection closed for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:24.399Z info: WebSocket connection established for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:24.412Z info: WebSocket connection established for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:24.425Z info: WebSocket connection established for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:33.645Z info: Notification saved to database: {"id":"0cfab255-d59a-4588-b7af-e53c46315fb7","type":"CRUD","action":"CREATE","taskId":"cm452ly6e0002jlvsw8xqs4m9","userId":"cm452lln80000jlvsfrjcod9n","title":"Task Created","message":"Task \"Qui fugiat dolorum p\" has been created","timestamp":"2024-12-01T03:57:33.644Z","isRead":false,"dueDate":"2007-11-11T18:06:00.000Z"}
+2024-12-01T03:57:33.645Z info: Notification saved and being sent to user cm452lln80000jlvsfrjcod9n: Task Created
+2024-12-01T03:57:36.500Z info: WebSocket connection closed for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:36.502Z info: WebSocket connection closed for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:36.502Z info: WebSocket connection closed for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:36.878Z info: WebSocket connection established for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:36.890Z info: WebSocket connection established for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:36.925Z info: WebSocket connection established for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:36.926Z info: WebSocket connection closed for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:57:36.940Z info: WebSocket connection established for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T03:59:46.492Z info: Notification saved to database: {"id":"f7b9bacd-fa9c-4d9f-884b-01d2cd51f467","type":"CRUD","action":"UPDATE","taskId":"cm452ly6e0002jlvsw8xqs4m9","userId":"cm452lln80000jlvsfrjcod9n","title":"Task Updated","message":"Task \"Qui fugiat dolorum p\" has been updated","timestamp":"2024-12-01T03:59:46.492Z","isRead":false,"dueDate":"2007-11-11T18:06:00.000Z"}
+2024-12-01T03:59:46.492Z info: Notification saved and being sent to user cm452lln80000jlvsfrjcod9n: Task Updated
+2024-12-01T04:02:22.132Z info: WebSocket connection closed for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T04:02:22.133Z info: WebSocket connection closed for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T04:02:22.146Z info: WebSocket connection closed for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T04:02:22.149Z info: WebSocket connection established for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T04:02:22.176Z info: WebSocket connection established for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T04:02:22.192Z info: WebSocket connection established for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T04:12:52.243Z error: Token not found
+2024-12-01T04:12:52.278Z info: Notification saved to database: {"id":"aae3f5b5-e389-4857-b722-0a0a9d80ccde","type":"CRUD","action":"UPDATE","taskId":"cm452ly6e0002jlvsw8xqs4m9","userId":"cm452lln80000jlvsfrjcod9n","title":"Task Updated","message":"Task \"Qui fugiat dolorum p\" has been updated","timestamp":"2024-12-01T04:12:52.278Z","isRead":false,"dueDate":"2007-11-11T18:06:00.000Z"}
+2024-12-01T04:12:52.278Z info: Notification saved and being sent to user cm452lln80000jlvsfrjcod9n: Task Updated
+2024-12-01T04:13:28.317Z info: WebSocket connection closed for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T04:13:28.320Z info: WebSocket connection closed for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T04:13:28.320Z info: WebSocket connection closed for user: cm452lln80000jlvsfrjcod9n
+2024-12-01T04:14:07.968Z info: Background services initialized successfully
+2024-12-01T04:14:29.842Z info: Background services initialized successfully
+2024-12-01T04:15:00.877Z info: Starting overdue task cron job
+2024-12-01T04:15:00.878Z info: Current time: 2024-12-01T04:15:00.878Z
+2024-12-01T04:15:00.948Z info: Found 11 overdue tasks
+2024-12-01T04:15:00.948Z info: Overdue Task Details:
+            - Task ID: cm43uv7wa0001jlsx08o6tcwg
+            - Title: hello
+            - Due Date: Sat Nov 30 2024 12:31:57 GMT+0545 (Nepal Time)
+            - User ID: cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T04:15:00.949Z info: Overdue Task Details:
+            - Task ID: cm43x8a4f0003jlsxxny5wpyg
+            - Title: task2
+            - Due Date: Sat Nov 23 2024 17:24:00 GMT+0545 (Nepal Time)
+            - User ID: cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T04:15:00.949Z info: Overdue Task Details:
+            - Task ID: cm43x8nj30005jlsxckkhcl4u
+            - Title: third
+            - Due Date: Sat Nov 30 2024 18:28:00 GMT+0545 (Nepal Time)
+            - User ID: cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T04:15:00.949Z info: Overdue Task Details:
+            - Task ID: cm44xcj5d0001jlp4hvq2kh9f
+            - Title: fgdfg
+            - Due Date: Wed Nov 13 2024 11:15:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.949Z info: Overdue Task Details:
+            - Task ID: cm44ypfpo0001jlqr41sd64ls
+            - Title: sdfsdf
+            - Due Date: Sun Dec 01 2024 07:53:13 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.950Z info: Overdue Task Details:
+            - Task ID: cm44ys2p20005jlqr09sn58it
+            - Title: sdfsdf
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.950Z info: Overdue Task Details:
+            - Task ID: cm44ys55z0007jlqr31h6gv79
+            - Title: sdfsdfsdf
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.950Z info: Overdue Task Details:
+            - Task ID: cm44ys7rl0009jlqrwaaa46d3
+            - Title: sdfsdfsd
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.950Z info: Overdue Task Details:
+            - Task ID: cm44ysao5000bjlqraihkfw0x
+            - Title: sdfsdfsdf
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.950Z info: Overdue Task Details:
+            - Task ID: cm44yse8s000djlqr4tn2ahu9
+            - Title: sdfsdfsdf
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.950Z info: Overdue Task Details:
+            - Task ID: cm44yskos000hjlqre1ti7ogv
+            - Title: sdfsdfsd
+            - Due Date: Sun Dec 01 2024 02:10:00 GMT+0545 (Nepal Time)
+            - User ID: cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.951Z warn: No active WebSocket connections for user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T04:15:00.951Z info: Sent notification for overdue task "hello" to user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T04:15:00.951Z warn: No active WebSocket connections for user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T04:15:00.951Z info: Sent notification for overdue task "task2" to user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T04:15:00.951Z warn: No active WebSocket connections for user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T04:15:00.951Z info: Sent notification for overdue task "third" to user cm43t6c5a0000jlamiqmjxw0b
+2024-12-01T04:15:00.951Z warn: No active WebSocket connections for user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.951Z info: Sent notification for overdue task "fgdfg" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.951Z warn: No active WebSocket connections for user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.951Z info: Sent notification for overdue task "sdfsdf" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.951Z warn: No active WebSocket connections for user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.952Z info: Sent notification for overdue task "sdfsdf" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.952Z warn: No active WebSocket connections for user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.952Z info: Sent notification for overdue task "sdfsdfsdf" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.952Z warn: No active WebSocket connections for user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.952Z info: Sent notification for overdue task "sdfsdfsd" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.952Z warn: No active WebSocket connections for user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.952Z info: Sent notification for overdue task "sdfsdfsdf" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.953Z warn: No active WebSocket connections for user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.953Z info: Sent notification for overdue task "sdfsdfsdf" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.953Z warn: No active WebSocket connections for user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.953Z info: Sent notification for overdue task "sdfsdfsd" to user cm44c2mhw0000jlrz6ma5yob9
+2024-12-01T04:15:00.953Z info: Overdue task cron job completed successfully
+2024-12-01T04:23:14.173Z error: 
+Invalid `this.prisma.user.create()` invocation in
+/Users/mahato/Developer/new-task-management/backend/src/domain/repositories/auth-repository.ts:11:29
+
+   8 private readonly prisma = PrismaService.getClient();
+   9 
+  10 async create(data: Prisma.UserCreateInput): Promise<User> {
+→ 11   return this.prisma.user.create({
+         data: {
+           email: " user@gmail.com",
+           password: "$2a$12$pSXUedbYsKpQ3lN7CAIY3.l9Ik9DLvife8z8D.ALqEwU13LbuCc6S",
+       +   fullName: String
+         }
+       })
+
+Argument `fullName` is missing.
+2024-12-01T04:23:42.666Z error: User not found
+2024-12-01T04:26:35.942Z info: Background services initialized successfully
+2024-12-01T04:26:41.947Z error: User not found
+2024-12-01T04:27:15.925Z error: Token not found
+2024-12-01T04:27:20.854Z error: Token not found
+2024-12-01T04:27:24.720Z error: Token not found
