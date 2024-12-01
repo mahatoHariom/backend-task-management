@@ -20,7 +20,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/project-management-backend.git
+git clone https://github.com/mahatoHariom/project-management-backend.git
 cd backend
 ```
 
@@ -157,11 +157,4 @@ Real-time communication implemented using Socket.IO
 
 Comprehensive logging implemented with Winston
 
-## 📄 License
-
-[Specify Your License]
-
-## 📞 Contact
-
-[Your Contact Information]
 ```
